@@ -7,5 +7,5 @@ define('BASE_URL', '/project_management');
 
 // App name
 define('APP_NAME', 'Project Management System');
-define('GEMINI_API_KEY', 'AIzaSyCX6Hfq8mVCiYzQJ8ftAQRApuRgK6DH9t4');
+// define('GEMINI_API_KEY', 'AIzaSyCX6Hfq8mVCiYzQJ8ftAQRApuRgK6DH9t4');
 ?>
